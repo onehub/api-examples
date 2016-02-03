@@ -22,7 +22,7 @@ API_HOST = ENV['API_HOST'] || 'ws-api.onehub.com'
 # http://developer.onehub.com
 
 client_app_secret = '[YOUR CLIENT SECRET]'
-client_app_id = "[YOUR CLIENT ID]"
+client_app_id = '[YOUR CLIENT ID]'
 
 # Email and password for the requesting Onehub Developer account.
 username = '[YOUR EMAIL]'
